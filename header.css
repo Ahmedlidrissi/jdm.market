@@ -1,0 +1,30 @@
+.SS{
+    display: block;
+    margin-bottom: 0;  
+    
+}
+.sb{
+    display: inline-block;
+    width: 300px;
+    height: 0.7cm;
+    margin-left: 10cm;
+    border: 0;
+    padding: 0;
+}
+.sic{
+    width: 19px;
+    padding-top: 4px;
+}
+.but{
+    height: 0.7cm;
+    width: 70px; 
+    padding-left: -10px;
+    background-color: gray;
+    vertical-align: top;
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+.but:active{
+    background-color: antiquewhite;
+}
